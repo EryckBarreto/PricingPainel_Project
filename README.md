@@ -12,6 +12,10 @@ Projeto simples para criação de um painel de preços aplicando conceitos de fl
 
 ![App Screenshot](https://i.postimg.cc/8cdLkbnS/Captura-de-tela-2023-04-30-170556.jpg)
 
+## Deploy
+
+ - [Deploy](https://pricingpainelproject1.herokuapp.com)
+
 
 ## Autores
 
@@ -41,5 +45,6 @@ Fiz o código mais acessível para screen readers, e busquei dar mais responsivi
 ## Stack utilizada
 
 **Front-end:** HTML - CSS
+
 
 
